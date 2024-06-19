@@ -4,7 +4,7 @@
 <body style="background-color:Lime;">
 
 <h1 style="color:Yellow;">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District</h1>
-<h2 style="color:Black;">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District: click here for readable text</h2>
+<h1 style="color:Black;">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District: click here for readable text</h1>
 <p><a href="https://ladnarofladner.github.io/BlackText">BlackText</a></p>
 
 
