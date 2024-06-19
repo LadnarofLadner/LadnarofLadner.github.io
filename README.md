@@ -4,8 +4,7 @@
 <body style="background-color:Lime;">
 
 <h1 style="color:Yellow;">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District</h1>
-<h1 style="color:Black;">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District: click here for readable text</h1>
-<p><a href="https://ladnarofladner.github.io/BlackText">BlackText</a></p>
+<p><a href="https://ladnarofladner.github.io/BlackText">Congressional Nerd Election Webpage, Hawaii 2024, 2nd U.S. District: click here for readable text</a></p>
 
 
 <p style="color:Yellow;">Thank you for navigating to my page, and thanks, in advance, for your support. Here is a little bit of biographical infomrmation about me. I am so Far-Left that I've fallen off the American politcal scale, sometime around 1996-2000. I was born in Plainfield, Vermont, and grew up in Warwick, Rhode Island (1988-2004). I earned a Bachelor of Science degree in Marine Biology from the University of Rhode Island, on a full tuition scholarship. After 2004, I moved back to Plainfield, Vermont, in search of graduate school positions and scientific work, where I remained, waiting, patiently, until about 2014, when I ran for Congress, and debated Rep. Peter Welch (D., now Senator), and others, on Vermont Public Television. Despite my sincere reservations about the direction the country was going in, my warnings, apparently, went unheeded, and I remain under-utilized and un-utilized, in our modern economy. This is a poisionous economy. Period, full stop.</p>
